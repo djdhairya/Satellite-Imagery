@@ -38,11 +38,13 @@ Allows users to upload satellite images.
 Displays preprocessing results using OpenCV.
 Runs segmentation models built with TensorFlow and Keras.
 Shows segmented images and performance metrics like the Jaccard Coefficient.
+
 Advantages of Gradio:
 
 User-Friendly: Easy for users to interact with complex models without needing to understand the underlying code.
 Real-Time Feedback: Instant visualization of the analysis, helping users make quick assessments.
 Accessibility: Can be hosted online, making the tools accessible from anywhere, promoting collaboration and wider use.
+
 Conclusion
 
 Satellite imagery analysis has been significantly enhanced by advanced image processing techniques and machine learning models. By incorporating Gradio, these sophisticated tools become accessible and interactive, allowing users to gain insights from high-resolution satellite data effortlessly. As technology advances, the combination of powerful analytical tools and user-friendly interfaces will continue to revolutionize how we understand and manage our planet.
